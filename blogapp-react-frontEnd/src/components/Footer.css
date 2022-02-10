@@ -1,0 +1,15 @@
+footer .container{
+    background-color: rgba(30, 30, 77, 0.301);
+}
+.fab{
+    color: aliceblue;
+    background-color: black;
+}
+footer .btn{
+    background-color: rgb(30, 52, 94);
+    color: black;
+}
+footer{
+    margin-bottom: 0px;
+    margin-top: 50%;
+}
